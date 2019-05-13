@@ -15,4 +15,7 @@ Summative goal: setting specific, quantitive, usability goals for a product and 
 1. figure out purpose of your test i.e, To identify usability problems or to gather usability measurements
 2. Recruit Particapants. You may need to develop a user profile, i.e, specify the characteristics that members of the target population share.
 3. Define core tasks of a product.
-4. Create scenarios of use.
+4. Create scenarios of use. 
+  Example: The usability of grade look up in Canvas may be problematic because of the number of steps.
+      Key Task: Look up the grades in Canvas.
+      Scenario: Imagine you were curiouse about the results of your midterm exams. what could you do?
