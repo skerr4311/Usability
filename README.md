@@ -19,3 +19,7 @@ Summative goal: setting specific, quantitive, usability goals for a product and 
   Example: The usability of grade look up in Canvas may be problematic because of the number of steps.
       Key Task: Look up the grades in Canvas.
       Scenario: Imagine you were curiouse about the results of your midterm exams. what could you do?
+      
+4. Figure out procedures. A complete description of the procedures to follow when conducting a test session.
+5. Pilot Test. Take a dry run before the real usability test.
+6. Ethics Consideration. Be aware of professional practices in the ethical treatment of test prarticipation, eg.,NDA amd Ethical approval
